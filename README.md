@@ -1,4 +1,4 @@
-# Targetted Advertising and Customer Segmentation
+# Customer Segmentation
 This repository contains two projects covering supervised and unsupervised learning with R
 
 ## Title
@@ -15,7 +15,7 @@ The objective of this project is to perform clustering on different visitors to 
 
   
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core-Week-13-IP.git
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Customer-Segmentation.git
 
 2. Navigate to the project directory: cd pandas
 
