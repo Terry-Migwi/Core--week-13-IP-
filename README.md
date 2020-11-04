@@ -1,5 +1,5 @@
 # Customer Segmentation
-This repository contains two projects covering supervised and unsupervised learning with R
+This repository contains a project covering unsupervised learning with R
 
 ## Title
 Unsupervised Learning in R 
